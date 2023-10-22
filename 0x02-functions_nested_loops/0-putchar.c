@@ -1,8 +1,8 @@
-#include "main.h" 
+#include "main.h"
+
 /**
  * main - Entry point of my code,
- *
- * Return: Always 0
+ * Return: Alway 0
  */
 int main(void)
 {
@@ -16,4 +16,5 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
+
 }
